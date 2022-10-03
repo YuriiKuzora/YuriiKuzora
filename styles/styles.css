@@ -106,14 +106,13 @@ body {
     margin-bottom: 10px;
 }
 
-.work-positinon,
-{
-font-style: normal;
-font-weight: 700;
-font-size: 16px;
-line-height: 20px;
-color: #000000;
-margin-bottom: 10px;
+.work-positinon {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
 }
 
 .organization {
@@ -155,7 +154,12 @@ margin-bottom: 10px;
 }
 
 /* education styles */
-.education {}
+.list {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
 
 .university {
     font-style: normal;
